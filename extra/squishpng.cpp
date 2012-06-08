@@ -38,7 +38,7 @@
 #include <ctime>
 #include <cmath>
 #include <squish.h>
-#include <png.h>
+#include "..\..\libpng\png.h"
 
 #ifdef _MSC_VER
 #pragma warning( disable: 4511 4512 )
